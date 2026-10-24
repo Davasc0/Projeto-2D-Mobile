@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1116155331
+    locked: 0
+  - name: ground
+    uniqueID: 2339755511
+    locked: 0
+  - name: arvores
+    uniqueID: 2255847955
+    locked: 0
+  - name: coins
+    uniqueID: 2969049203
+    locked: 0
+  - name: potion
+    uniqueID: 1506408617
+    locked: 0
+  - name: cloud
+    uniqueID: 2288545111
+    locked: 0
+  - name: player
+    uniqueID: 559717777
+    locked: 0
+  - name: wall
+    uniqueID: 1064275933
+    locked: 0
+  - name: New Layer
+    uniqueID: 2071595045
+    locked: 0
